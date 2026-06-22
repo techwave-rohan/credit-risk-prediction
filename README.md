@@ -247,10 +247,9 @@ streamlit run app/app.py
 
 Add screenshots here:
 
-* Home Page
-* Input Form
-* Good Risk Prediction
-* Bad Risk Prediction
+<img width="1165" height="857" alt="image" src="https://github.com/user-attachments/assets/694b98f2-8432-4958-98ed-ed2d6df371f4" />
+<img width="955" height="666" alt="image" src="https://github.com/user-attachments/assets/215f8ddc-4da4-4f10-aeb9-29ad5c55dc8a" />
+
 
 ---
 
